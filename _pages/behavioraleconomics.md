@@ -1,10 +1,10 @@
 ---
 layout: archive
 permalink: /behavioral-economics/
-title: "Machine Learning Posts by Tags"
+title: "Behavioral Economics Posts by Tags"
 author_profile: true
 header: 
-	#image: "images/image2.png"
+	#image: "images/image1.jpg"
 ---
 
 {% include base_path %}

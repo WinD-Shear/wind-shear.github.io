@@ -2,7 +2,7 @@
 title: "About"
 permalink: /about/
 header: 
-	#image: "/images/imagename.jpg"
+	image: "/images/image1.jpg"
 ---
 
 Hello! This is Chadwick Poon.
